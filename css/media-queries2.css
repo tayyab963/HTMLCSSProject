@@ -1,0 +1,246 @@
+@media only screen and (min-width:768px) and (max-width:1024px){
+    body{
+        background-color: white;
+        height: 100%;
+    }
+    header {
+        position: sticky;
+        top: 0;
+        /* background-color: #fff; */
+        z-index: 100;
+    }.navbar {
+        background-color: white;
+      
+    }   .main-logo {
+        display: inline-block;
+    }.logo-img {
+        padding-left: 0px;
+    }.nav {
+        float: right;
+        /* background-color: white; */
+        margin-top: 27px;
+    }.navitems {
+        margin-top: 0;
+        display: inline-block;
+        /* margin-left: 93px; */
+    }a {
+        display: inline-block;
+        text-decoration: none;
+        color: grey;
+        background-color: white;
+        font-size: 17px;
+        padding: 10px 9px;
+        margin: 0px;
+        border-radius: 5px;
+    }.Slider-image {
+        background-image: url("../images/home-slider.jpg");
+        /* background-size: contain; */
+        background-repeat: no-repeat;
+        /* height: 328px; */
+    }.slider-content {
+        transform: translateX(50%);
+        height: 100%;
+        padding-top: 8%;
+        width: 50%;
+        text-align: center;
+        color: white;
+    }.features {
+        padding: 29px 0px 138px 0px;
+    }.feature-column {
+        width: 32%;
+        display: inline-block;
+        padding: 0px;
+    }.features-content {
+        color: grey;
+        border-left: 1px solid grey;
+    }.feature-column i {
+        margin-left: 2px;
+        font-size: 31px;
+        position: absolute;
+    }.features h3 {
+        font-size: 18px;
+        padding: 0px 0px 0px 39px;
+    }.features p {
+        padding: 0px 0px 0px 39px;
+        line-height: 17px;
+    }.color-very-light {
+        background-color: #f6f6f6;
+        padding: 86px 0px 33px 0px;
+    }.corporate-img {
+        width: 100%;
+        display: inline-block;
+        position: relative;
+        top: -180px;
+        margin-right: 0px;
+    }.color-very-light {
+        background-color: #f6f6f6;
+        padding: 86px 0px 33px 0px;
+    }.corporate-img {
+        width: 100%;
+        display: inline-block;
+        position: relative;
+        top: -180px;
+        margin-right: 0px;
+    }.corporate-content {
+        width: 100%;
+        display: inline-block;
+        /* vertical-align: top; */
+        margin-top: -130px;
+    }.achievement {
+        text-align: center;
+        color: grey;
+        font-size: 15px;
+        position: relative;
+        overflow: hidden;
+        margin: 0 auto;
+        padding: 30px 0px 30px 0px;
+    }.facts {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgb(77, 77, 77);
+        position: absolute;
+        font-size: 22px;
+        padding-top: 10px;
+    }.text {
+        color: rgb(128, 128, 128);
+        padding: 0px 0px 0px 59px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 11px;
+        margin-top: 17px;
+    }.gallery-main {
+        padding: 18px 0px;
+    }.visual-work {
+        text-align: center;
+        color: #8d8d8d;
+    }.Gallery-Heading {
+        color: rgb(75, 75, 75);
+        font-size: 32px;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }.portfolio-list {
+        text-align: center;
+        padding-bottom: 19px;
+        color: rgb(148, 148, 148);
+    }.portfolio-list span {
+        padding: 7px 9px;
+        text-transform: uppercase;
+        font-size: 13px;
+    }.team {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }.oneAndonly {
+        font-size: 17px;
+        text-align: center;
+        color: rgb(155, 155, 155);
+    }.team-h1 {
+        font-size: 25px;
+        color: #505050;
+        text-align: center;
+        margin-bottom: 14px;
+    }.team-container {
+        width: 100%;
+        padding: 0px 2px;
+    }.team-content {
+        /* margin: 0px 0px; */
+        text-align: center;
+    }.team-content h2 {
+        color: #505050;
+        padding: 4px 0px;
+        font-size: 19px;
+    }.team-content h3 {
+        color: #8d8d8d;
+        /* padding: 0px 0px; */
+        font-size: 15px;
+    }.team-content p {
+        color: #a0a0a0;
+        padding: 2px 0px;
+        /* margin-right: 0px; */
+        font-size: 14px;
+    }.team-content span {
+        padding-top: 8px;
+    }.team-content i {
+        font-size: 17px;
+        /* padding-top: 0px; */
+        padding-right: 5px;
+    }.skills {
+        margin: 7px 0px;
+    }.col-sm-6 {
+        width: 100%;
+        float: left;
+        padding: 5px;
+    }.skills-content {
+        padding: 5px 0px;
+    }.skills-content h3 {
+        color: #a0a0a0;
+        font-size: 19px;
+        padding: 5px 0px;
+    }.skills-content h1 {
+        color: #505050;
+        font-size: 27px;
+        padding: 6px 0px;
+    }.skills-content p {
+        padding: 4px 0px;
+        color: #a0a0a0;
+        margin-right: 8px;
+        font-size: 15px;
+    }.performance {
+        padding: 5px 0px;
+    }.performance h3 {
+        color: #505050;
+        font-size: 16px;
+        padding: 7px 0px;
+        display: inline-block;
+    }.performance h4 {
+        color: #a0a0a0;
+        font-size: 16px;
+        padding: 7px 0px;
+        float: right;
+    }.performance .programming-line {
+        margin-top: 10px;
+        width: 77%;
+        border-bottom: 15px solid #47c9e5;
+        border-radius: 25px;
+        position: relative;
+        display: block;
+    }.programming-line::after {
+        border-top: 3px solid #b4b4b4;
+        margin-left: 100%;
+        width: 29%;
+        overflow: hidden;
+        margin-top: 6px;
+        content: "";
+        position: absolute;
+    }.performance .designing-line {
+        margin-top: 10px;
+        width: 65%;
+        border-bottom: 15px solid #47c9e5;
+        border-radius: 25px;
+        display: block;
+        position: relative;
+    }.designing-line::after {
+        border-top: 3px solid #b4b4b4;
+        margin-left: 100%;
+        width: 53%;
+        overflow: hidden;
+        margin-top: 6px;
+        content: "";
+        position: absolute;
+    }.performance .managing-line {
+        margin-top: 10px;
+        width: 93%;
+        border-bottom: 15px solid #47c9e5;
+        border-radius: 25px;
+        display: block;
+        position: relative;
+    }.managing-line::after {
+        border-top: 3px solid #b4b4b4;
+        margin-left: 100%;
+        width: 7%;
+        overflow: hidden;
+        margin-top: 6px;
+        content: "";
+        position: absolute;
+    }.iframe{
+        height: 250px;
+    }
+} 
